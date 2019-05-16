@@ -1,6 +1,7 @@
 # LEMRinterface
 
-A Learning Electronic Medical Record (LEMR) interface. This code can be used for Electronic Medical Record Research.
+A Learning Electronic Medical Record (LEMR) interface. 
+This code will be used to conduct research on Automation Bias in Electronic Medical Records.
 
 ## Getting Started
 
@@ -50,9 +51,12 @@ Version 1.0. For the versions available, see https://github.com/ajk77/LEMRinterf
 
 ## Authors
 
-Andrew J King - Doctoral Candidate (at time of creation)<br />
-Shyam Visweswaran - Principal Investigator<br />
-Gregory F Cooper - Doctoral Advisor
+Luca Calzoni - Doctoral Fellow (at time of creation)<br/>
+Gregory F Cooper - Research Advisor<br/>
+Andrew J King - Doctoral Candidate (at time of creation)<br/>
+Harry Hochheiser - Doctoral Advisor<br/>
+Shyam Visweswaran - Principal Investigator<br/>
+
 
 ## License
 
@@ -68,9 +72,3 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
-
-## Acknowledgments
-
-* Harry Hochheiser
-* Gilles Clermont
-* Milos Hauskrecht
